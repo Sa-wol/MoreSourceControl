@@ -10,6 +10,9 @@ namespace MoreSourceControl
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Practicing more source control");
+            Console.WriteLine();
+            Console.WriteLine("is very interesting.");
         }
     }
 }
